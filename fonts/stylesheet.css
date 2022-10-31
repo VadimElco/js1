@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Bold.eot');
+    src: local('Fits Bold'), local('Fits-Bold'),
+        url('Fits-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Bold.woff2') format('woff2'),
+        url('Fits-Bold.woff') format('woff'),
+        url('Fits-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Light.eot');
+    src: local('Fits Light'), local('Fits-Light'),
+        url('Fits-Light.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Light.woff2') format('woff2'),
+        url('Fits-Light.woff') format('woff'),
+        url('Fits-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Medium.eot');
+    src: local('Fits Medium'), local('Fits-Medium'),
+        url('Fits-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Medium.woff2') format('woff2'),
+        url('Fits-Medium.woff') format('woff'),
+        url('Fits-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-SemiBold.eot');
+    src: local('Fits SemiBold'), local('Fits-SemiBold'),
+        url('Fits-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Fits-SemiBold.woff2') format('woff2'),
+        url('Fits-SemiBold.woff') format('woff'),
+        url('Fits-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Black.eot');
+    src: local('Fits Black'), local('Fits-Black'),
+        url('Fits-Black.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Black.woff2') format('woff2'),
+        url('Fits-Black.woff') format('woff'),
+        url('Fits-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Heavy.eot');
+    src: local('Fits Heavy'), local('Fits-Heavy'),
+        url('Fits-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Heavy.woff2') format('woff2'),
+        url('Fits-Heavy.woff') format('woff'),
+        url('Fits-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fits';
+    src: url('Fits-Regular.eot');
+    src: local('Fits Regular'), local('Fits-Regular'),
+        url('Fits-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Fits-Regular.woff2') format('woff2'),
+        url('Fits-Regular.woff') format('woff'),
+        url('Fits-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
